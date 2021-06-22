@@ -1,0 +1,49 @@
+@page
+@model ChinookWeb.Pages.ArtistsModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<br>
+ <h1>Artists</h1>
+ <br>
+<div class="row">
+
+ <table class="table">
+ <thead class="thead-inverse">
+ <tr>
+     <th>Artist ID</th>
+       <th>Name</th>
+              <th>Options</th>
+</tr>
+ </thead>
+ <tbody>
+     
+ @for (int s = 0; s < Model.artists.Count; s++)
+ {
+     <tr>
+<td>@Model.artists[s].ArtistId</td>
+<td>@Model.artists[s].Name</td>
+<td>
+
+  <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">Edit/Delete</button>
+             
+                <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel2" aria-hidden="true">
+                   <div class="modal-dialog modal-lg" role="document">
+                     <div class="modal-content">
+                       <h1 class="gaptime"><p class="gaptime">WOAH, NELLIE!</p></h1>
+                       <p class="gaptime">Are you sure you wish to amend this record? </p>
+                       <p> <div class="modal-footer">
+                         <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                           <a class="btn btn-primary" href="https://localhost:5002/swagger/index.html" role="button">Yes</a>
+                       </div>
+                     </div>
+                   </div>
+               
+
+</td>
+</tr>
+ }
+
+ </tbody>
+ </table>
+
+
+ </div>
