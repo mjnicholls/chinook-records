@@ -1,0 +1,9 @@
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\bin\Debug\netcoreapp3.1\ChinookEntitiesLib.deps.json
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\bin\Debug\netcoreapp3.1\ChinookEntitiesLib.dll
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\bin\Debug\netcoreapp3.1\ChinookEntitiesLib.pdb
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\obj\Debug\netcoreapp3.1\ChinookEntitiesLib.csprojAssemblyReference.cache
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\obj\Debug\netcoreapp3.1\ChinookEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\obj\Debug\netcoreapp3.1\ChinookEntitiesLib.AssemblyInfo.cs
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\obj\Debug\netcoreapp3.1\ChinookEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\obj\Debug\netcoreapp3.1\ChinookEntitiesLib.dll
+C:\Users\mjnic\OneDrive\Documents\UWS\Internet Scripting\Chinook\ChinookEntitiesLib\obj\Debug\netcoreapp3.1\ChinookEntitiesLib.pdb
